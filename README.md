@@ -3,5 +3,5 @@
 Hello! Welcome to my Data Portfolio. 
 This repository includes the projects I have worked on in learning new data skills. 
 
-# Academic Projects
+## Academic Projects
 
